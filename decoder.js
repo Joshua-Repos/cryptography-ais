@@ -1,4 +1,4 @@
-var letter= prompt("what is th letter")
+var letter= prompt("what is the letter")
 switch (letter){
   case "a":
     { alert("b")
